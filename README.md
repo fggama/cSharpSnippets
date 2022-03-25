@@ -8,3 +8,7 @@ Pedazos de programas en C#
 
 ## GetLDireccionIPValida.cs
 >Validar la dirección del cliente
+
+## Para-Impresoras.cs
+> - Determinar el tipo de impresota
+> - Establecer impresora por defecto
